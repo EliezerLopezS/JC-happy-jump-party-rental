@@ -1,30 +1,130 @@
+<?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+require 'PHPMailer/src/Exception.php';
+require 'PHPMailer/src/PHPMailer.php';
+require 'PHPMailer/src/SMTP.php';
+
+if(isset($_POST['submit'])){
+    $nombre=$_POST['name'];
+    $email=$_POST['email'];
+    $phone=$_POST['phone'];
+    $message=$_POST['message'];
+    $ip = $_SERVER["REMOTE_ADDR"];
+
+    $errors = array();
+
+    if (empty($nombre)) {
+        $errors[] = 'El campo nombre es obligatorio';
+    }
+
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        $errors[] = 'La dirección de correo electrónico no es válida';
+    }
+
+    if (empty($phone)) {
+        $errors[] = 'El campo asunto es obligatorio';
+    }
+
+    if (empty($message)) {
+        $errors[] = 'El campo mensaje es obligatorio';
+    }
+
+    if (count($errors) == 0) {
+
+        $msg="De: $nombre <br> Correo: <a href='mailto:$email'>$email</a><br>";
+        $msg .="Telefono: $phone<br><br>";
+        $msg .= "Mensaje:";
+        $msg .= '<p>' . $message . '</p>';
+
+        
+        $mail = new PHPMailer(true);
+
+        try {
+            $mail->SMTPDebug = SMTP::DEBUG_OFF;
+            $mail->isSMTP();
+            $mail->Host = 'smtp.gmail.com';
+            $mail->SMTPAuth = true;
+            $mail->Username = '371eze6.375@gmail.com';
+            $mail->Password = 'luka ptyq bzgu cpnn';
+            $mail->SMTPSecure = 'ssl';
+            $mail->Port = 465;
+
+            $mail->setFrom('371eze6.375@gmail.com', 'Usuario');
+            $mail->addAddress('371eze6.375@gmail.com', 'Receptor');
+            //$mail->addReplyTo('otro@dominio.com');
+
+            $mail->isHTML(true);
+            $mail->Subject = 'Formulario de contacto';
+            $mail->Body = utf8_decode($msg);
+
+            $mail->send();
+
+            $respuesta = 'Correo enviado';
+        } catch (Exception $e) {
+            $respuesta = 'Mensaje ' . $mail->ErrorInfo;
+        }
+    }
+    }
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
+<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Contacts - Brand</title>
+    <title>JC Happy Jump Party Rental</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
+    <link rel="stylesheet" href="assets/bootstrap/css/Carousel-Hero.css">
+<script>
+(function($) {
+  showSwal = function(type) {
+  'use strict';
+  if (type === 'basic') {
+  swal({
+  title: 'Read the alert!',
+  text: 'Thanks you for your support',
+  button: {
+  text: "OK",
+  value: true,
+  visible: true,
+  className: "btn btn-primary"
+  }
+  })
+
+  }
+  }
+
+  })(jQuery);
+    </script>
+    
 </head>
 
 <body>
-    <nav class="navbar navbar-dark navbar-expand-md sticky-top py-3" id="mainNav">
-        <div class="container"><a class="navbar-brand d-flex align-items-center" href="/"><span class="bs-icon-sm bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-bezier">
-                        <path fill-rule="evenodd" d="M0 10.5A1.5 1.5 0 0 1 1.5 9h1A1.5 1.5 0 0 1 4 10.5v1A1.5 1.5 0 0 1 2.5 13h-1A1.5 1.5 0 0 1 0 11.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zm10.5.5A1.5 1.5 0 0 1 13.5 9h1a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5h-1a1.5 1.5 0 0 1-1.5-1.5v-1zm1.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1zM6 4.5A1.5 1.5 0 0 1 7.5 3h1A1.5 1.5 0 0 1 10 4.5v1A1.5 1.5 0 0 1 8.5 7h-1A1.5 1.5 0 0 1 6 5.5v-1zM7.5 4a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1z"></path>
-                        <path d="M6 4.5H1.866a1 1 0 1 0 0 1h2.668A6.517 6.517 0 0 0 1.814 9H2.5c.123 0 .244.015.358.043a5.517 5.517 0 0 1 3.185-3.185A1.503 1.503 0 0 1 6 5.5v-1zm3.957 1.358A1.5 1.5 0 0 0 10 5.5v-1h4.134a1 1 0 1 1 0 1h-2.668a6.517 6.517 0 0 1 2.72 3.5H13.5c-.123 0-.243.015-.358.043a5.517 5.517 0 0 0-3.185-3.185z"></path>
-                    </svg></span><span>Brand</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1">
-                <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Inicio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="services.html">Catálogo</a></li>
-                    <li class="nav-item"><a class="nav-link" href="projects.html">Galeria</a></li>
-                    <li class="nav-item"><a class="nav-link" href="pricing.html">Acerca de</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="contacts.html">Contáctenos</a></li>
-            </div>
-        </div>
-    </nav>
+<?php include './inc/navbar.php'; ?>
+    <?php
+            if (isset($errors)) {
+                if (count($errors) > 0) {
+            ?>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                <?php
+                                foreach ($errors as $error) {
+                                    echo $error . '<br>';
+                                }
+                                ?>
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                        </div>
+                    </div>
+            <?php
+                }
+            }
+            ?>
     <section class="py-5">
         <div class="container py-5">
             <div class="row mb-5">
@@ -34,15 +134,27 @@
                 </div>
             </div>
             <div class="row d-flex justify-content-center">
+
                 <div class="col-md-6 col-xl-4">
                     <div>
-                        <form class="p-3 p-xl-4" method="post">
-                            <div class="mb-3"><input class="form-control" type="text" id="name-1" name="name" placeholder="Name"></div>
-                            <div class="mb-3"><input class="form-control" type="email" id="email-1" name="email" placeholder="Email"></div>
-                            <div class="mb-3"><textarea class="form-control" id="message-1" name="message" rows="6" placeholder="Message"></textarea></div>
-                            <div><button class="btn btn-primary shadow d-block w-100" type="submit">Send </button></div>
+                    <?php if (isset($respuesta)) { ?>
+                            
+                            <div class="alert alert-success">
+                                 <strong>Success!</strong> <?php echo $respuesta; ?>
+                            </div>
+                            <?php
+                        }?>
+                        <form class="p-3 p-xl-4" method="post" action="<?php echo htmlentities($_SERVER['PHP_SELF']);?>" autocomplete="off">
+                            <div class="mb-3"><input class="form-control" type="text" id="name" name="name" placeholder="Name" required></div>
+                            <div class="mb-3"><input class="form-control" type="email" id="email" name="email" placeholder="Email" required></div>
+                            <div class="mb-3"><input class="form-control" type="phone" id="phone" maxlength="15" name="phone" placeholder="Phone" required></div>
+                            <div class="mb-3"><textarea class="form-control" id="message" name="message" rows="6" placeholder="Message" required></textarea></div>
+                            <div><button class="btn btn-primary shadow d-block w-100" type="submit" name="submit" >Send </button></div>
                         </form>
+                        
                     </div>
+
+            
                 </div>
                 <div class="col-md-4 col-xl-4 d-flex justify-content-center justify-content-xl-start">
                     <div class="d-flex flex-wrap flex-md-column justify-content-md-start align-items-md-start h-100">
