@@ -3,25 +3,34 @@ div.jumbotron.carousel-hero {
   text-align: center;
   background-size: cover;
   background-position: center;
-  padding-top: 100px;
+  padding-top: 200px;
   padding-bottom: 100px;
   margin-bottom: 0;
 }
 
 div.jumbotron.hero-nature {
-  background-image: url('../../../IMG2.jpg');
+  background-image: url('../../../Img/IMG_3854.jpg');
 }
 
 div.jumbotron.hero-photography {
-  background-image: url('../../../IMG3.jpg');
+  background-image: url('../../../Img/IMG_6292.jpg');
 }
 
 div.jumbotron.hero-technology {
-  background-image: url('../../../IMG1.jpg');
+  background-image: url('../../../Img/IMG_6457.jpg');
+}
+
+div.jumbotron.hero-technology2 {
+  background-image: url('../../../Img/IMG_5294.jpg');
+}
+
+div.jumbotron.hero-technology3 {
+  background-image: url('../../../Img/IMG_5629.jpg');
 }
 
 h1.hero-title, h2.hero-title, h3.hero-title {
-  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  bottom: -20px;
+  text-shadow: 0 2px 2px rgba(0,0,0,0.4);
   color: #fff;
 }
 

@@ -15,24 +15,38 @@
     <div id="carousel-1" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="bg-light border rounded border-light hero-nature carousel-hero jumbotron py-5 px-4">
+                <div class="bg-light border rounded border-light hero-nature carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
                     
-                    <p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>
+                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="bg-light border rounded border-light hero-photography carousel-hero jumbotron py-5 px-4">
+                <div class="bg-light border rounded border-light hero-photography carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
                     
-                    <p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>
+                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="bg-light border rounded border-light hero-technology carousel-hero jumbotron py-5 px-4">
+                <div class="bg-light border rounded border-light hero-technology carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
                     
-                    <p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>
+                   <!-- <p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="bg-light border rounded border-light hero-technology2 carousel-hero jumbotron py-6 px-4">
+                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    
+                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="bg-light border rounded border-light hero-technology3 carousel-hero jumbotron py-6 px-4">
+                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    
+                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
         </div>
@@ -41,6 +55,8 @@
             <li class="active" data-bs-target="#carousel-1" data-bs-slide-to="0"></li>
             <li data-bs-target="#carousel-1" data-bs-slide-to="1"></li>
             <li data-bs-target="#carousel-1" data-bs-slide-to="2"></li>
+            <li data-bs-target="#carousel-1" data-bs-slide-to="3"></li>
+            <li data-bs-target="#carousel-1" data-bs-slide-to="4"></li>
         </ol>
     </div>
     <!--header class="bg-dark">
@@ -67,11 +83,11 @@
             <p class="mb-4" style="font-size: 1.6rem;">Used by <span class="text-success"><strong>2400+</strong></span>&nbsp;of the best companies in the world.</p><a href="#"> <img class="m-3" src="assets/img/brands/google.png"></a><a href="#"> <img class="m-3" src="assets/img/brands/microsoft.png"></a><a href="#"> <img class="m-3" src="assets/img/brands/apple.png"></a><a href="#"> <img class="m-3" src="assets/img/brands/facebook.png"></a><a href="#"> <img class="m-3" src="assets/img/brands/twitter.png"></a>
         </div>
     </section>-->
-    <section>
+    <!--<section>
         <div class="container bg-dark py-5">
             <div class="row">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <p class="fw-bold text-success mb-2">Nuestros Servicios</p>
+                    <h1 class="fw-bold text-success mb-2"><strong>Nuestros Servicios</strong></p></h1>
                     <h3 class="fw-bold">Lo que podemos hacer por usted</h3>
                 </div>
             </div>
@@ -126,31 +142,46 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <section>
+    <div class="row">
+                <div class="col-md-8 col-xl-6 text-center mx-auto">
+                    <h1 class="fw-bold text-success mb-2"><strong>Nuestros Servicios</strong></p></h1>
+                    <h3 class="fw-bold">Lo que podemos hacer por usted</h3>
+                </div>
+            </div>
         <div class="container py-5">
             <div class="mx-auto" style="max-width: 900px;">
                 <div class="row row-cols-1 row-cols-md-2 d-flex justify-content-center">
                     <div class="col mb-4">
                         <div class="card bg-primary-light">
                             <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-primary card-text mb-2">Fully Managed</p>
-                                <h5 class="fw-bold card-title mb-3">Lorem ipsum dolor sit&nbsp;nullam et quis ad cras porttitor</h5><button class="btn btn-primary btn-sm" type="button">Learn more</button>
+                                <p class="fw-bold text-primary card-text mb-2">Alquiler de Sillas</p>
+                                <h5 class="fw-bold card-title mb-3">Es necesario para cualquier fiesta o evento. Es muy importante tener las sillas y mesas perfectas. Ya sea que esté buscando alquilar sillas chaivari, sillas plegables, sillas de plástico o incluso sillas para novios, tenemos una silla para cualquier tipo de fiesta que pueda imaginar.</h5><button class="btn btn-primary btn-sm" type="button">Learn more</button>
                             </div>
                         </div>
                     </div>
                     <div class="col mb-4">
                         <div class="card bg-secondary-light">
                             <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-secondary card-text mb-2">Fully Managed</p>
-                                <h5 class="fw-bold card-title mb-3">Lorem ipsum dolor sit&nbsp;nullam et quis ad cras porttitor</h5><button class="btn btn-secondary btn-sm" type="button">Learn more</button>
+                                <p class="fw-bold text-secondary card-text mb-2">Alquiler de Mesas</p>
+                                <h5 class="fw-bold card-title mb-3">Nuestras mesas vienen en una variedad de tamaños y formas. Tenemos mesas redondas, mesas cuadradas, serpentina y mucho más. Nuestro inventario de alquiler de mesas y sillas para fiestas es único.</h5><button class="btn btn-secondary btn-sm" type="button">Learn more</button>
                             </div>
                         </div>
                     </div>
                     <div class="col mb-4">
                         <div class="card bg-info-light">
                             <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-info card-text mb-2">Fully Managed</p>
+                                <p class="fw-bold text-info card-text mb-2">Alquiler de Carpas</p>
+                                <h5 class="fw-bold card-title mb-3">Lorem ipsum dolor sit&nbsp;nullam et quis ad cras porttitor</h5><button class="btn btn-info btn-sm" type="button">Learn more</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-4">
+                        <div class="card bg-info-light">
+                            <div class="card-body text-center px-4 py-5 px-md-5">
+                                <p class="fw-bold text-info card-text mb-2">Alquiler de Inflables
+                                </p>
                                 <h5 class="fw-bold card-title mb-3">Lorem ipsum dolor sit&nbsp;nullam et quis ad cras porttitor</h5><button class="btn btn-info btn-sm" type="button">Learn more</button>
                             </div>
                         </div>
