@@ -5,11 +5,15 @@
                     </svg></span><span>JC Happy Jump Party Rental</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link active" href="index.php">Inicio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="services.php">Catálogo</a></li>
-                    <li class="nav-item"><a class="nav-link" href="projects.php">Galeria</a></li>
-                    <li class="nav-item"><a class="nav-link" href="pricing.php">Acerca de</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contacts.php">Contáctenos</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="inflatables.php">Inflatables</a></li>
+                    <li class="nav-item"><a class="nav-link" href="tables.php">Tables</a></li>
+                    <li class="nav-item"><a class="nav-link" href="chairs.php">Chairs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="tents.php">Tents</a></li>
+                    <!--li class="nav-item"><a class="nav-link" href="services.php">Catálogo</a></li-->
+                    <!--li class="nav-item"><a class="nav-link" href="projects.php">Galeria</a></li-->
+                    <li class="nav-item"><a class="nav-link" href="pricing.php">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contacts.php">Contact us</a></li>
                 </ul>
                 <!--<a class="btn btn-primary shadow" role="button" href="signup.html">Sign up</a>-->
             </div>

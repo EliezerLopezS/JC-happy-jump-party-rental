@@ -37,6 +37,7 @@ if(isset($_POST['submit'])){
         $msg .="Telefono: $phone<br><br>";
         $msg .= "Mensaje:";
         $msg .= '<p>' . $message . '</p>';
+        $msg .= "Enviado el " . date('d/m/Y', time()) ;
 
         
         $mail = new PHPMailer(true);
@@ -46,13 +47,13 @@ if(isset($_POST['submit'])){
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'emaill';
-            $mail->Password = 'passwordd';
+            $mail->Username = '371eze6.375@gmail.com';
+            $mail->Password = 'luka ptyq bzgu cpnn';
             $mail->SMTPSecure = 'ssl';
             $mail->Port = 465;
 
-            $mail->setFrom('emaill', 'Usuario');
-            $mail->addAddress('emaill', 'Receptor');
+            $mail->setFrom('371eze6.375@gmail.com', 'Usuario');
+            $mail->addAddress('371eze6.375@gmail.com', 'Receptor');
             //$mail->addReplyTo('otro@dominio.com');
 
             $mail->isHTML(true);
