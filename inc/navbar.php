@@ -8,17 +8,14 @@
                     <span>JC Happy Jump Party Rental</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="inflatables.php">Inflatables</a></li>
-                    <li class="nav-item"><a class="nav-link" href="tables.php">Tables</a></li>
-                    <li class="nav-item"><a class="nav-link" href="chairs.php">Chairs</a></li>
-                    <li class="nav-item"><a class="nav-link" href="tents.php">Tents</a></li>
-                    <!--li class="nav-item"><a class="nav-link" href="services.php">Catálogo</a></li-->
-                    <!--li class="nav-item"><a class="nav-link" href="projects.php">Galeria</a></li-->
-                    <li class="nav-item"><a class="nav-link" href="pricing.php">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contacts.php">Contact us</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="index.php"><i class="fa-solid fa-house-chimney"></i> Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="inflatables.php"><i class="fa-solid fa-mosque"></i> Inflatables</a></li>
+                    <li class="nav-item"><a class="nav-link" href="tables.php"><i class="bi bi-table"></i> Tables</a></li>
+                    <li class="nav-item"><a class="nav-link" href="chairs.php"><i class="fa-sharp fa-solid fa-chair"></i> Chairs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="tents.php"><i class="fa-solid fa-tent"></i> Tents</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contacts.php"><i class="fa-solid fa-address-card"></i> Contact us</a></li>
                 </ul>
-                <!--<a class="btn btn-primary shadow" role="button" href="signup.html">Sign up</a>-->
+                
             </div>
         </div>
     </nav>
