@@ -7,9 +7,10 @@
             <div class="col-12 col-sm-6 col-md-2">
                 <h5>Location</h5>
                 <ul>
-                <p class="text-muted mb-0">223 Ocean Ave, Lakewood NJ 08701 
+                <a href="https://goo.gl/maps/ji4C4xz3SZC1Nmet5">  <p class="text-muted mb-0">223 Ocean Ave, Lakewood NJ 08701 </a>
+              
                                 </p>
-                    <!--li><a href="#">Home</a></li>
+                    <!--li></li>
                     <li><a href="#">Downloads<br /></a></li>
                     <li><a href="#">Sign Up</a></li>
                     <li><a href="#">Other Links</a></li-->
@@ -18,7 +19,7 @@
             <div class="col-12 col-sm-6 col-md-2">
                 <h5>Email</h5>
                 <ul>
-                 <p class="text-muted mb-0">FernandoJ0220771@gmail.com</p>
+                <a href="mailto:FernandoJ0220771@gmail.com"> <p class="text-muted mb-0">FernandoJ0220771@gmail.com</p></a>
                     <!--li><a href="#">About Us</a></li>
                     <li><a href="#">Company Information<br /></a></li>
                     <li><a href="#">Reviews</a></li>
@@ -28,7 +29,7 @@
             <div class="col-sm-6 col-md-2">
                 <h5>Phone</h5>
                 <ul>
-                <p class="text-muted mb-0">+123456789</p>
+                <a href="https://wa.me/+18485251340">  <p class="text-muted mb-0"><i class="bi bi-whatsapp"></i> +18485251340</p></a>
                     <!--li><a href="#">FAQ</a></li>
                     <li><a href="#">Help Desk<br /></a></li>
                     <li><a href="#">Forums</a></li>
