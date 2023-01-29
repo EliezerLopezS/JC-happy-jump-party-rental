@@ -23,7 +23,7 @@
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
                         </div>
                     </div>
-                </div>I
+                </div>
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_2387.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
