@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap">
     <link rel="stylesheet" href="assets/bootstrap/css/Carousel-Hero.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <script src="https://kit.fontawesome.com/7e5ea1114e.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -16,35 +18,35 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="bg-light border rounded border-light hero-nature carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
                     <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-photography carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
                     <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-technology carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
                    <!-- <p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-technology2 carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
                     <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-technology3 carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">Ofrecemos excelentes alquileres a excelentes precios, estamos a su servicio.</h1>
+                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
                     <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
                 </div>
@@ -146,50 +148,116 @@
     <section>
     <div class="row">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <h1 class="fw-bold text-success mb-2"><strong>Nuestros Servicios</strong></p></h1>
-                    <h3 class="fw-bold">Lo que podemos hacer por usted</h3>
+                    <h1 class="fw-bold text-success mb-2"><strong>Our services</strong></p></h1>
+                    <h3 class="fw-bold">What we can do for you</h3>
                 </div>
             </div>
-        <div class="container py-5">
-            <div class="mx-auto" style="max-width: 900px;">
-                <div class="row row-cols-1 row-cols-md-2 d-flex justify-content-center">
-                    <div class="col mb-4">
-                        <div class="card bg-primary-light">
-                            <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-primary card-text mb-2">Alquiler de Sillas</p>
-                                <h5 class="fw-bold card-title mb-3">Es necesario para cualquier fiesta o evento. Es muy importante tener las sillas y mesas perfectas. Ya sea que esté buscando alquilar sillas chaivari, sillas plegables, sillas de plástico o incluso sillas para novios, tenemos una silla para cualquier tipo de fiesta que pueda imaginar.</h5><button class="btn btn-primary btn-sm" type="button">Learn more</button>
-                            </div>
-                        </div>
+
+            <!--/aqui va ALGO NUEVO-->
+            <div class="container d-flex flex-column align-items-center py-4 py-xl-5">
+        <div class="row gy-4 row-cols-1 row-cols-md-2 w-100" style="max-width: 800px;">
+            <div class="col order-md-first">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\50B9DA6A-93C3-429D-BEDC-014305D3089D_Original.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4>Tent rental</h4>
+                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
                     </div>
-                    <div class="col mb-4">
-                        <div class="card bg-secondary-light">
-                            <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-secondary card-text mb-2">Alquiler de Mesas</p>
-                                <h5 class="fw-bold card-title mb-3">Nuestras mesas vienen en una variedad de tamaños y formas. Tenemos mesas redondas, mesas cuadradas, serpentina y mucho más. Nuestro inventario de alquiler de mesas y sillas para fiestas es único.</h5><button class="btn btn-secondary btn-sm" type="button">Learn more</button>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col d-md-flex order-first justify-content-md-start align-items-md-end order-md-1">
+                <div style="width: 80%;">
+                    <h3 class="fw-bolder">Tent rental</h2>
+                    <p class="w-lg-50">We offer rental of tents and canvas for all kinds of social events, we have tents (one and two waters, Arab tents, transparent tents), etc.</p>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\f7ff2ad2-5ca4-4f4a-82d8-1e70da939d35.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4>Title</h4>
+                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
                     </div>
-                    <div class="col mb-4">
-                        <div class="card bg-info-light">
-                            <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-info card-text mb-2">Alquiler de Carpas</p>
-                                <h5 class="fw-bold card-title mb-3">Lorem ipsum dolor sit&nbsp;nullam et quis ad cras porttitor</h5><button class="btn btn-info btn-sm" type="button">Learn more</button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col mb-4">
-                        <div class="card bg-info-light">
-                            <div class="card-body text-center px-4 py-5 px-md-5">
-                                <p class="fw-bold text-info card-text mb-2">Alquiler de Inflables
-                                </p>
-                                <h5 class="fw-bold card-title mb-3">Lorem ipsum dolor sit&nbsp;nullam et quis ad cras porttitor</h5><button class="btn btn-info btn-sm" type="button">Learn more</button>
-                            </div>
-                        </div>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\IMG_2387.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4>Title</h4>
+                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+    <div class="container d-flex flex-column align-items-center py-4 py-xl-5">
+        <div class="row mb-5">
+            <div class="col-md-8 col-xl-6 text-center mx-auto">
+                <h3 class="fw-bolder">Chairs and tables</h3>
+                <p class="w-lg-50">It is necessary for any party or event. It is very important to have the perfect chairs
+                     and tables. Whether you are looking to rent chaivari chairs, folding chairs, plastic chairs, or even
+                      bridal chairs, we have a chair for any type of party you can imagine.</p>
+            </div>
+        </div>
+        <div class="row gy-4 w-100" style="max-width: 800px;">
+            <div class="col-12">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\chairs\IMG_6291.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4>Title</h4>
+                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tables\IMG_3195.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4>Title</h4>
+                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tables\IMG_6812.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4>Title</h4>
+                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section id="gallery-1" class="py-5">
+            <div class="container py-3">
+                <div class="row mb-5">
+                    <div class="col-lg-6">
+                        <h3 class="fw-bolder">Inflatable rental<br></h3>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="text-muted">We offer colorful models and beautiful designs made of reinforced materials that provide security, guaranteeing hours of fun.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col py-2"><img class="img-fluid rounded" src="Img\inflatables\IMG_5294.jpg" alt="bssblocks image placeholder" width="100%"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col py-3"><img class="img-fluid rounded" src="Img\inflatables\IMG_2392.jpg" alt="bssblocks image placeholder" width="100%"></div>
+                            <div class="col py-3"><img class="img-fluid rounded" src="Img\inflatables\IMG_6456.jpg" alt="bssblocks image placeholder" width="100%"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col py-2"><img class="img-fluid rounded" src="Img\inflatables\IMG_6606.jpg" alt="bssblocks image placeholder" width="100%"></div>
+                            <div class="col py-2"><img class="img-fluid rounded" src="Img\inflatables\IMG_6608.jpg" alt="bssblocks image placeholder" width="100%"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col py-3"><img class="img-fluid rounded" src="Img\inflatables\IMG_9700.jpg" alt="bssblocks image placeholder" width="100%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+ <!--/aqui va TERMINA ALGO NUEVO-->
+
     <section class="py-5 mt-5">
         <div class="container py-5">
             <div class="row mb-5">
