@@ -17,7 +17,7 @@
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/3a097840-d62f-4021-8cb3-265d3ac4fa3a.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/3a097840-d62f-4021-8cb3-265d3ac4fa3a.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Princess Bouncer</h4>
                             <p class="text-muted">15x15 <br>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/4c02366c-ab97-4b00-99dd-7980ea02cc71.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/4c02366c-ab97-4b00-99dd-7980ea02cc71.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -36,7 +36,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/67726251116__922D4673-BF61-4213-A430-3799B6BF829B.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/67726251116__922D4673-BF61-4213-A430-3799B6BF829B.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/B37962D5-AEE8-4B6B-8E83-5736B1593FA9.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img\inflatables\IMG_9700.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Blue Crush Water</h4>
                             <p class="text-muted">L 32’(9.6m) <br>W 11’ (3.3m) <br>H 18 (5.4)<br>
@@ -54,7 +54,7 @@ Our blue crush water slide whit inflatable pool.It’s a perfect slide for any e
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/IMG_6456.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_6456.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -62,7 +62,7 @@ Our blue crush water slide whit inflatable pool.It’s a perfect slide for any e
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/IMG_0854.png" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_0854.png" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Dolphin Slide Pool</h4>
                             <p class="text-muted">L 34ft. <br>  W 13ft. <br> H 18ft.<br>

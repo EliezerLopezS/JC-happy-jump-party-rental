@@ -17,23 +17,7 @@
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/50B9DA6A-93C3-429D-BEDC-014305D3089D_Original.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
-                            <h4 class="fw-bold">Lorem libero donec</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
-                        </div>
-                    </div>
-                </div>
-                <!--div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/f7ff2ad2-5ca4-4f4a-82d8-1e70da939d35.jpg" style="height: 250px;"></a>
-                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
-                            <h4 class="fw-bold">Lorem libero donec</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
-                        </div>
-                    </div>
-                </div-->
-                <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/IMG_2387.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/50B9DA6A-93C3-429D-BEDC-014305D3089D_Original.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -41,7 +25,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/IMG_3854.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_2387.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -49,7 +33,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/IMG_5874.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_3854.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -57,7 +41,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/IMG_5874.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_5874.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -65,7 +49,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/IMG_6295.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_5874.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
@@ -73,7 +57,15 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/tents/IMG_6344.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_6295.jpg" style="height: 250px;"></a>
+                        <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
+                            <h4 class="fw-bold">Lorem libero donec</h4>
+                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-4">
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/tents/IMG_6344.jpg" style="height: 250px;"></a>
                         <div class="py-4"><span class="badge bg-primary mb-2">Website</span>
                             <h4 class="fw-bold">Lorem libero donec</h4>
                             <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>

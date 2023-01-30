@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
-                <div class="col mb-5"><img class="rounded img-fluid shadow" src="img/chairs/IMG_1678.jpg"></div>
+                <div class="col mb-5"><img class="rounded img-fluid shadow" src="Img/chairs/IMG_1678.jpg"></div>
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
-                <div class="col order-md-last mb-5"><img class="rounded img-fluid shadow" src="img/chairs/IMG_5410.jpg"></div>
+                <div class="col order-md-last mb-5"><img class="rounded img-fluid shadow" src="Img/chairs/IMG_5410.jpg"></div>
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
@@ -34,7 +34,7 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
-                <div class="col mb-5"><img class="rounded img-fluid shadow" src="img/chairs/IMG_5412.jpg"></div>
+                <div class="col mb-5"><img class="rounded img-fluid shadow" src="Img/chairs/IMG_5412.jpg"></div>
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
-                <div class="col order-md-last mb-5"><img class="rounded img-fluid shadow" src="img/chairs/IMG_5629.jpg"></div>
+                <div class="col order-md-last mb-5"><img class="rounded img-fluid shadow" src="Img/chairs/IMG_5629.jpg"></div>
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
-                <div class="col mb-5"><img class="rounded img-fluid shadow" src="img/chairs/IMG_6291.jpg"></div>
+                <div class="col mb-5"><img class="rounded img-fluid shadow" src="Img/chairs/IMG_6291.jpg"></div>
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
