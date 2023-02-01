@@ -4,14 +4,13 @@
 <head>
 <?php include 'links.php'; ?>
 </head>
-
 <body>
 <?php include './inc/navbar.php'; ?>
     <section class="py-5">
         <div class="container py-5">
             <div class="row mb-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                <h1 class="fw-bold text-success mb-2"><strong>Inflatable</strong></p></h1>
+                <h1 class="fw-bold text-success mb-2"><strong>Inflatable</strong></h1>
                     <p class="text-muted">We supply professional services that simplify your entertainment needs, while making your experience unique. Our fun and courteous staff will help you with every aspect of your day, from setting up and supervising the fun, to tearing down at the end, making your event fun and hassle free!.</p>
                 </div>
             </div>

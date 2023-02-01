@@ -11,7 +11,7 @@
         <div class="container py-5">
             <div class="row mb-4 mb-lg-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                <h1 class="fw-bold text-success mb-2"><strong>Tables</strong></p></h1>
+                <h1 class="fw-bold text-success mb-2"><strong>Tables</strong></h1>
                     <p>For casual events, we offer you round tables, planks , all our furniture is in perfect condition since our clients are very careful, in addition to always, after each event, we clean our furniture and constantly maintain it, for what we guarantee will be to your total satisfaction. Just like our table linen, it is always perfectly clean, ironed and disinfected.</p>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
-                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><button class="btn btn-primary shadow" type="button">Learn more</button>
+                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><!--<button class="btn btn-primary shadow" type="button">Learn more</button>-->
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
-                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><button class="btn btn-primary shadow" type="button">Learn more</button>
+                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><!--<button class="btn btn-primary shadow" type="button">Learn more</button>-->
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
-                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><button class="btn btn-primary shadow" type="button">Learn more</button>
+                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><!--<button class="btn btn-primary shadow" type="button">Learn more</button>-->
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
-                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><button class="btn btn-primary shadow" type="button">Learn more</button>
+                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><!--<button class="btn btn-primary shadow" type="button">Learn more</button>-->
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                 <div class="col d-md-flex align-items-md-end align-items-lg-center mb-5">
                     <div>
                         <h5 class="fw-bold">Lorem ipsum dolor sit&nbsp;</h5>
-                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><button class="btn btn-primary shadow" type="button">Learn more</button>
+                        <p class="text-muted mb-4">Erat netus est hendrerit, nullam et quis ad cras porttitor iaculis. Bibendum vulputate cras aenean.</p><!--<button class="btn btn-primary shadow" type="button">Learn more</button>-->
                     </div>
                 </div>
             </div>
