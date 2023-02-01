@@ -11,8 +11,8 @@
         <div class="container py-5">
             <div class="row mb-4 mb-lg-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <p class="fw-bold text-success mb-2">Our Services</p>
-                    <h3 class="fw-bold">What we can do for you</h3>
+                <h1 class="fw-bold text-success mb-2"><strong>Tables</strong></p></h1>
+                    <p>For casual events, we offer you round tables, planks , all our furniture is in perfect condition since our clients are very careful, in addition to always, after each event, we clean our furniture and constantly maintain it, for what we guarantee will be to your total satisfaction. Just like our table linen, it is always perfectly clean, ironed and disinfected.</p>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">

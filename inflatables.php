@@ -11,7 +11,7 @@
         <div class="container py-5">
             <div class="row mb-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <h2 class="fw-bold">Inflatables</h2>
+                <h1 class="fw-bold text-success mb-2"><strong>Inflatable</strong></p></h1>
                     <p class="text-muted">We supply professional services that simplify your entertainment needs, while making your experience unique. Our fun and courteous staff will help you with every aspect of your day, from setting up and supervising the fun, to tearing down at the end, making your event fun and hassle free!.</p>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/IMG_2392.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_2392.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Rainbow Water Slide</h4>
                             <p class="text-muted">16 ft <br>Our water slide wet and dry feature landing zone whit curved stop wall this half-pipe inspired design gives the rider a new experience as they come to a gradual stop after sliding up the back. Design whit safety and year round fun in mind,you all want at least one Wet and Dry in your party.
@@ -84,7 +84,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/crayon1.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/crayon1.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Crayon Jumper</h4>
                             <p class="text-muted">13x13 crayon jumper, our traditional castle bounce house bring fun to any party.</p>
@@ -92,7 +92,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="img/inflatables/IMG-9094.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG-9094.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Bahamas Breeze Combo 5-1</h4>
                             <p class="text-muted"><br>L 33’ (10.1m)  <br>W 13’(3.9m) <br>H 12’(4.m)<br>
