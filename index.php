@@ -68,7 +68,7 @@
             <div class="container d-flex flex-column align-items-center py-4 py-xl-5">
         <div class="row gy-4 row-cols-1 row-cols-md-2 w-100" style="max-width: 800px;">
             <div class="col order-md-first">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\50B9DA6A-93C3-429D-BEDC-014305D3089D_Original.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img3.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
                         <h4>Individual Tents</h4>
                         <p>Make sure your guests have a place to relax in the shade and celebrate your event. </p>
@@ -82,7 +82,7 @@
                 </div>
             </div>
             <div class="col order-md-2">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\f7ff2ad2-5ca4-4f4a-82d8-1e70da939d35.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img5.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
                         <h4>Tents, Chairs and Tables</h4>
                         <p>JC Happy Jump Party Rental has tents that are perfect for any occasion.</p>
@@ -90,7 +90,7 @@
                 </div>
             </div>
             <div class="col order-md-2">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\IMG_2387.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img9.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
                         <h4>Tents, Chairs, Tables and Decorations</h4>
                         <p> We provide the delivery, set-up, and breakdown of all tents for your convenience!.</p>
