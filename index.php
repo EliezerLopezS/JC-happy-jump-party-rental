@@ -68,10 +68,10 @@
             <div class="container d-flex flex-column align-items-center py-4 py-xl-5">
         <div class="row gy-4 row-cols-1 row-cols-md-2 w-100" style="max-width: 800px;">
             <div class="col order-md-first">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\50B9DA6A-93C3-429D-BEDC-014305D3089D_Original.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img3.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Tent rental</h4>
-                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                        <h4>Individual Tents</h4>
+                        <p>Make sure your guests have a place to relax in the shade and celebrate your event. </p>
                     </div>
                 </div>
             </div>
@@ -82,18 +82,18 @@
                 </div>
             </div>
             <div class="col order-md-2">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\f7ff2ad2-5ca4-4f4a-82d8-1e70da939d35.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img5.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Title</h4>
-                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                        <h4>Tents, Chairs and Tables</h4>
+                        <p>JC Happy Jump Party Rental has tents that are perfect for any occasion.</p>
                     </div>
                 </div>
             </div>
             <div class="col order-md-2">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\IMG_2387.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img9.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Title</h4>
-                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                        <h4>Tents, Chairs, Tables and Decorations</h4>
+                        <p> We provide the delivery, set-up, and breakdown of all tents for your convenience!.</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@
         <div class="row mb-5">
             <div class="col-md-8 col-xl-6 text-center mx-auto">
                 <h3 class="fw-bolder">Chairs and tables</h3>
-                <p class="w-lg-50">It is necessary for any party or event. It is very important to have the perfect chairs
+                <p class="w-lg-50">It is necessary for any party or event to have the perfect chairs
                      and tables. Whether you are looking to rent chaivari chairs, folding chairs, plastic chairs, or even
                       bridal chairs, we have a chair for any type of party you can imagine.</p>
             </div>
@@ -173,7 +173,7 @@
         <div class="container py-5">
             <div class="row mb-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <h2 class="fw-bold"><strong>Yo soy Fernando</strong></h2>
+                    <h2 class="fw-bold text-success mb-2"><strong>Nosotros somos JC Happy Jump Party Rental</strong></h2>
                     <p class="text-muted">No importa el Evento. Nuestro equipo puede manejarlo.</p>
                 </div>
             </div>

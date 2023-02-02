@@ -160,7 +160,7 @@ if(isset($_POST['submit'])){
                                 </svg></div>
                             <div class="px-2">
                                 <h6 class="fw-bold mb-0">Phone</h6>
-                                <p class="text-muted mb-0">+123456789</p>
+                                <p class="text-muted mb-0">+18485251340</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center p-3">
@@ -169,7 +169,7 @@ if(isset($_POST['submit'])){
                                 </svg></div>
                             <div class="px-2">
                                 <h6 class="fw-bold mb-0">Email</h6>
-                                <p class="text-muted mb-0">info@example.com</p>
+                                <p class="text-muted mb-0">FernandoJ0220771@gmail.com</p>
                             </div>
                         </div>
                         <div class="d-flex align-items-center p-3">
