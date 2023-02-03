@@ -112,24 +112,24 @@
             <div class="col-12">
                 <div class="card"><img class="card-img w-100 d-block" src="Img\chairs\IMG_6291.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Title</h4>
-                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                        <h4></h4>
+                        <p></p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-6">
                 <div class="card"><img class="card-img w-100 d-block" src="Img\tables\IMG_3195.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Title</h4>
-                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                        <h4></h4>
+                        <p></p>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-6">
                 <div class="card"><img class="card-img w-100 d-block" src="Img\tables\IMG_6812.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Title</h4>
-                        <p>Volutpat habitasse risus posuere, commodo fusce donec. Turpis donec tristique.</p>
+                        <h4></h4>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -173,18 +173,18 @@
         <div class="container py-5">
             <div class="row mb-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <h2 class="fw-bold text-success mb-2"><strong>Nosotros somos JC Happy Jump Party Rental</strong></h2>
-                    <p class="text-muted">No importa el Evento. Nuestro equipo puede manejarlo.</p>
+                    <h2 class="fw-bold text-success mb-2"><strong>We are JC Happy Jump Party Rental</strong></h2>
+                    <p class="text-muted"><!--No importa el Evento. Nuestro equipo puede manejarlo.-->The Event does not matter. Our team can handle it.</p>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 d-sm-flex justify-content-sm-center">
 
                 <div class="col mb-4">
                     <div class="d-flex flex-column align-items-center align-items-sm-start">
-                        <p class="bg-dark border rounded border-dark p-4">Llevamos más de ...................</p>
+                        <p class="bg-dark border rounded border-dark p-4">We have been working for more than 8 years. Our clients support us. </p>
                         <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="assets/img/team/avatar4.jpg">
                             <div>
-                                <p class="fw-bold text-primary mb-0">Fernando </p>
+                                <p class="fw-bold text-primary mb-0">Fernando José García.</p>
                             </div>
                         </div>
                     </div>

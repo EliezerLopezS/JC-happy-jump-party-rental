@@ -19,7 +19,7 @@
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/3a097840-d62f-4021-8cb3-265d3ac4fa3a.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Princess Bouncer</h4>
-                            <p class="text-muted">15x15 <br>
+                            <p class="text-muted">15 ft x 15 ft <br>
                             The kingdom will gather to see this princess castle show a young prince and his queen to be. This bring colorful castle attractive whith its pink, blue and purple colors. It stand tall whit its brick, spear tower and inside large jumping area. This bouncer is sure to make any party a hit. 
                         <br>Clean and sanitized.
                         </p>
@@ -30,7 +30,7 @@
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/4c02366c-ab97-4b00-99dd-7980ea02cc71.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Prince and Princess Castle</h4>
-                            <p class="text-muted">8.2L <br> 4.0W <br> 4.5h
+                            <p class="text-muted">L 30 ft (9.1m)  <br>W 11 ft (3.3m) <br>H 14 ft (4.2m) 
                             <br>This princess castle show a young prince and his queen to be. This bring colorful castle attractive whith its pink and purple colors.It stand tall whit its brick, spear tower and inside large jumping area. This bouncer is sure to make any party a hit.
                                 <br>Clean and sanitized.</p>
                         </div>
@@ -39,17 +39,22 @@
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_6606.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
-                            <h4 class="fw-bold">Lorem libero donec</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <h4 class="fw-bold">5-1 Combo Double Slide</h4>
+                            <p class="text-muted">L 28 ft (8.5m)<br>W 13 ft (3.9m) <br>H 12 ft (3.6m)
+                                <br>This 5-1 combo double slide theme has many features to keep everyone jumping and sliding for hours! It can be used wet or dry for year around fun. As you climb in from the entrance, this combo will have a large bouncing area, pop ups or punching pop ups, a basketball hoop, and climbing steps that lead to a double lane slide whit pool. Colorful pillars and side walls make this inflatable a stand out.
+                                <br>Clean and sanitized.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img\inflatables\IMG_9700.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img\inflatables\delfin.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
-                            <h4 class="fw-bold">Blue Crush Water</h4>
-                            <p class="text-muted">L 32’(9.6m) <br>W 11’ (3.3m) <br>H 18 (5.4)<br>
-                            Our blue crush water slide whit inflatable pool.It’s a perfect slide for any event where folks to cool off and have that adrenaline pumping fun.
+                            <h4 class="fw-bold">18' Dolphin Water Slide</h4>
+                            <p class="text-muted">L 26 ft (7.9m) <br>W 13 ft (3.9m) <br>H 18 ft (5.4m)<br>
+                            This 18' Dolphin Slide can be used wet or dry, your choice.
+                            Cool off this summer by riding the waves with the dolphins in our fun and cool water slide.
+                            If the weather is starting to cool down, just turn off the water and use it as a dry slide.
                             <br>Clean and sanitized.</p>
                         </div>
                     </div>
@@ -57,16 +62,19 @@
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_6456.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
-                            <h4 class="fw-bold">Lorem libero donec</h4>
-                            <p class="text-muted">Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus.</p>
+                            <h4 class="fw-bold">Combo Castle Marble</h4>
+                            <p class="text-muted">L 30 ft (9.1m)  <br>W 11 ft (3.3m) <br>H 14 ft (4.2m)<br>
+                                Our 5-1 combo castle marble is one of our best rental and a must have to your party,this inflable game is always a hit at any event! It may be used wet or dry & It includes spacious jump area, a basketball hoop (inside)a challenging wall climb & a tall slide.whit these choices,kids of all ages will be engaged for hours.
+                            <br>Clean and sanitized.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/tropical.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
-                            <h4 class="fw-bold">Blue Crust Water Slide</h4>
-                            <p class="text-muted">L 33ft. <br>  W 11ft. <br> H 18ft.<br>
+                            <h4 class="fw-bold">Blue Crust Water Slide 18 Ft</h4>
+                            <p class="text-muted">L 32ft (9.6m) <br>W 11 ft (3.3m) <br>H 18 ft (5.4m) <br>
                             Our blue crush water slide whit inflatable pool.It’s a perfect slide for any event where folks to cool off and have that adrenaline pumping fun.
                             <br>Clean and sanitized.
                             </p>
@@ -76,9 +84,12 @@
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_2392.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
-                            <h4 class="fw-bold">Rainbow Water Slide</h4>
-                            <p class="text-muted">16 ft <br>Our water slide wet and dry feature landing zone whit curved stop wall this half-pipe inspired design gives the rider a new experience as they come to a gradual stop after sliding up the back. Design whit safety and year round fun in mind,you all want at least one Wet and Dry in your party.
-                            <br>Clean and sanitized </p>
+                            <h4 class="fw-bold">Rainbow Water Slide 18 Ft</h4>
+                            <p class="text-muted">L 26 ft (7.9m) <br>W 13 ft (3.9m) <br>H 18 ft (5.4m)<br>
+                            This Rainbow Water Slide can be used wet or dry, your choice.
+                            Cool off this summer by riding the waves with the dolphins in our fun and cool water slide.
+                            If the weather is starting to cool down, just turn off the water and use it as a dry slide.
+                            <br>Clean and sanitized. </p>
                         </div>
                     </div>
                 </div>
@@ -86,7 +97,8 @@
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/crayon1.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Crayon Jumper</h4>
-                            <p class="text-muted">13x13 crayon jumper, our traditional castle bounce house bring fun to any party.</p>
+                            <p class="text-muted">13 ft x 13 ft
+                            <br>Crayon jumper, our traditional castle bounce house bring fun to any party.</p>
                         </div>
                     </div>
                 </div>
@@ -94,9 +106,19 @@
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG-9094.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Bahamas Breeze Combo 5-1</h4>
-                            <p class="text-muted"><br>L 33’ (10.1m)  <br>W 13’(3.9m) <br>H 12’(4.m)<br>
-Our Bahamas breeze combo inflatable is always a hit at any event,featuring a large bouncer area,basketball hoop and (inside), a challenging wall climb & a tall slide.Whit all these choices, kids of all ages will be engaged for hours.
-     <br>All the inflatables are clean and sanitized.</p>
+                            <p class="text-muted">L 33 ft (10.1m)  <br>W 13 ft (3.9m) <br>H 12 ft (4m)<br>
+                                                Our Bahamas breeze combo inflatable is always a hit at any event,featuring a large bouncer area,basketball hoop and (inside), a challenging wall climb & a tall slide.Whit all these choices, kids of all ages will be engaged for hours.
+                                               <br>All the inflatables are clean and sanitized.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col mb-4">
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/DoubleDrop.jpg" style="height: 250px;"></a>
+                        <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
+                            <h4 class="fw-bold">18 Ft Double Drop Wave Slide Pool</h4>
+                            <p class="text-muted">L 34 ft (10.3m)  <br>W 13 ft (3.9m) <br>H 18 ft (5.4m)<br>
+                            Our double drop wave slide is so versatile; give to you kids this popular slide year around whit our unique, build in pool landing pad, then return on the water,and make a great splash in the pool for some real summertime fun.
+                                               <br>All the inflatables are clean and sanitized.</p>
                         </div>
                     </div>
                 </div>
