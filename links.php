@@ -10,3 +10,13 @@
     <link rel="stylesheet" href="assets/bootstrap/css/Carousel-Hero.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <script src="https://kit.fontawesome.com/27e361d99d.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        document.oncontextmenu = function(){
+            return false;
+        }
+    </script>
+    <script>
+	$(document).ready(function(){
+		$.material.init();
+	});
+</script>
