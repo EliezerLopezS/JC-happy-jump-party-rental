@@ -57,7 +57,7 @@
     </div>
  
     <section>
-    <div class="row">
+            <div class="row">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
                     <h1 class="fw-bold text-success mb-2"><strong>Our services</strong></p></h1>
                     <h3 class="fw-bold">What we can do for you</h3>
@@ -96,6 +96,78 @@
                         <p> We provide the delivery, set-up, and breakdown of all tents for your convenience!.</p>
                     </div>
                 </div>
+            </div>
+            <div class="col d-md-flex order-first justify-content-md-start align-items-md-end order-md-2">
+                <div style="width: 80%;">
+                    <h5 class="fw-bolder">20x40 west coast frame tent (no center pole).</h5>
+                    <p class="w-lg-50"> 
+                                        This tent can accommodate up to 80 guests. 
+                    </p>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\IMG-9192.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img13.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                    </div>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\IMG-9197.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+                <!------>
+                <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img14.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                    </div>
+                </div>
+            </div>
+            <div class="col d-md-flex order-first justify-content-md-start align-items-md-end order-md-2">
+                <div style="width: 80%;">
+                    <h5 class="fw-bolder">20x30 tent cover 600 square ft (no center poles)</h5>
+                    <p class="w-lg-50">this tent can accommodate up to 60-70 guests 
+                                        Seating 8/60” table is comfortable seating 
+                                        Seating 10/60” table is intimate seating 
+                                        The price depends how you want your package and we have rectangular table 8 ft for 10-8 guests</p>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img150.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img160.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                    </div>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img17.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                    </div>
+                </div>
+            </div>
+            <div class="col order-md-2">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img18.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                    </div>
+                </div>
+            </div>
             </div>
         </div>
     </div>
@@ -137,11 +209,9 @@
         <section id="gallery-1" class="py-5">
             <div class="container py-3">
                 <div class="row mb-5">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 container d-flex flex-column align-items-center">
                         <h3 class="fw-bolder">Inflatable rental<br></h3>
-                    </div>
-                    <div class="col-lg-6">
-                        <p class="text-muted">We offer colorful models and beautiful designs made of reinforced materials that provide security, guaranteeing hours of fun.</p>
+                        <p class="text-muted text-center" >We offer colorful models and beautiful designs made of reinforced materials that provide security, guaranteeing hours of fun.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -168,17 +238,15 @@
         </section>
     </div>
  <!--/aqui va TERMINA ALGO NUEVO-->
-
-    <section class="py-5 mt-5">
-        <div class="container py-5">
-            <div class="row mb-5">
+ <section class="py-1 mt-1">
+       <!-- <div class="container py-5">-->
+            <!--<div class="row mb-5">-->
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
                     <h2 class="fw-bold text-success mb-2"><strong>We are JC Happy Jump Party Rental</strong></h2>
                     <p class="text-muted"><!--No importa el Evento. Nuestro equipo puede manejarlo.-->The Event does not matter. Our team can handle it.</p>
                 </div>
-            </div>
+            <!-- </div>-->
             <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 d-sm-flex justify-content-sm-center">
-
                 <div class="col mb-4">
                     <div class="d-flex flex-column align-items-center align-items-sm-start">
                         <p class="bg-dark border rounded border-dark p-4">We have been working for more than 8 years. Our clients support us. </p>
@@ -188,11 +256,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-                </div>
-            </div>
-        </div>
+               </div>
+             </div>
     </section>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/bold-and-dark.js"></script>

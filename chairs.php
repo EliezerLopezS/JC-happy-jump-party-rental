@@ -11,7 +11,7 @@
         <div class="container py-5">
             <div class="row mb-4 mb-lg-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                <h1 class="fw-bold text-success mb-2"><strong>Chairs</strong></p></h1>
+                <h1 class="fw-bold text-success mb-2"><strong>Chairs Rental</strong></p></h1>
                     <p>For casual events, we offer you Folding Chairs, all our furniture is in perfect condition since our clients are very careful, in addition to always, after each event, we clean our furniture and constantly maintain it, for what we guarantee will be to your total satisfaction. Just like our table linen, it is always perfectly clean, ironed and disinfected.</p>
                 </div>
             </div>
