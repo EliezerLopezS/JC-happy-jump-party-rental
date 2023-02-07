@@ -14,35 +14,47 @@
                 <div class="bg-light border rounded border-light hero-nature carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
-                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="https://goo.gl/maps/ji4C4xz3SZC1Nmet5">
+                    
+                    <i class="fa-solid fa-location-dot"></i>  223 Ocean Ave, Lakewood NJ 08701 
+                                
+                    </a></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-photography carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
+                    <h1 class="hero-title">The ultimate in party rentals.</h1>
                     
-                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="#">
+                    <i class="bi bi-whatsapp"></i> Contact us by WhatsApp
+                    </a></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-technology carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
+                    <h1 class="hero-title">The best team at your service.</h1>
                     
-                   <!-- <p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                   <p><a class="btn btn-info btn-lg hero-button" role="button" href="https://www.facebook.com/profile.php?id=100082319887289&mibextid=LQQJ4d"><i class="bi bi-facebook"></i> Visit our facebook's website</a></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-technology2 carousel-hero jumbotron py-6 px-4">
-                    <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
+                    <h1 class="hero-title">We provide exceptional experiences.</h1>
                     
-                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="https://goo.gl/maps/ji4C4xz3SZC1Nmet5">
+                    
+                    <i class="fa-solid fa-location-dot"></i>  223 Ocean Ave, Lakewood NJ 08701 
+                                
+                    </a></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <div class="bg-light border rounded border-light hero-technology3 carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
-                    <!--<p><a class="btn btn-primary btn-lg hero-button" role="button" href="#">Learn more</a></p>-->
+                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="#">
+                    <i class="bi bi-whatsapp"></i> Contact us by WhatsApp
+                    </a></p>
                 </div>
             </div>
         </div>

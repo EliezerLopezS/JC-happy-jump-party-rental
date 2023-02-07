@@ -71,7 +71,7 @@
                     </div>
                 </div>
                 <div class="col mb-4">
-                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/tropical.jpg" style="height: 250px;"></a>
+                    <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/tropical.JPG" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">Blue Crust Water Slide 18 Ft</h4>
                             <p class="text-muted">L 32ft (9.6m) <br>W 11 ft (3.3m) <br>H 18 ft (5.4m) <br>

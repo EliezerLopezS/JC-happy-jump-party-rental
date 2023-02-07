@@ -3,13 +3,13 @@ div.jumbotron.carousel-hero {
   text-align: center;
   background-size: cover;
   background-position: center;
-  padding-top: 200px;
-  padding-bottom: 100px;
+  padding-top: 250px;
+  padding-bottom: 150px;
   margin-bottom: 0;
 }
 
 div.jumbotron.hero-nature {
-  background-image: url('../../../Img/tents/IMG_3854.jpg');
+  background-image: url('../../../Img/tents/img25.jpg');
 }
 
 div.jumbotron.hero-photography {
