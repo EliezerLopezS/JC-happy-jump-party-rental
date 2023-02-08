@@ -73,6 +73,10 @@
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
                     <h1 class="fw-bold text-success mb-2"><strong>Our services</strong></p></h1>
                     <h3 class="fw-bold">What we can do for you</h3>
+                    <br>
+                    <br>
+                    <h3 class="fw-bolder">Tent rental</h2>
+                    <p class="w-lg-50">We offer rental of tents and canvas for all kinds of social events, we have tents (one and two waters, Arab tents, transparent tents), etc.</p>
                 </div>
             </div>
 
@@ -80,24 +84,10 @@
             <div class="container d-flex flex-column align-items-center py-4 py-xl-5">
         <div class="row gy-4 row-cols-1 row-cols-md-2 w-100" style="max-width: 800px;">
             <div class="col order-md-first">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img3.jpg">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img5.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
                         <h4>Individual Tents</h4>
                         <p>Make sure your guests have a place to relax in the shade and celebrate your event. </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col d-md-flex order-first justify-content-md-start align-items-md-end order-md-1">
-                <div style="width: 80%;">
-                    <h3 class="fw-bolder">Tent rental</h2>
-                    <p class="w-lg-50">We offer rental of tents and canvas for all kinds of social events, we have tents (one and two waters, Arab tents, transparent tents), etc.</p>
-                </div>
-            </div>
-            <div class="col order-md-2">
-                <div class="card"><img class="card-img w-100 d-block" src="Img\tents\img5.jpg">
-                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
-                        <h4>Tents, Chairs and Tables</h4>
-                        <p>JC Happy Jump Party Rental has tents that are perfect for any occasion.</p>
                     </div>
                 </div>
             </div>
@@ -211,6 +201,38 @@
             </div>
             <div class="col-12 col-md-6">
                 <div class="card"><img class="card-img w-100 d-block" src="Img\tables\IMG_6812.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\chairs\img10.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\chairs\img20.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\chairs\img50.jpg">
+                    <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
+                        <h4></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="card"><img class="card-img w-100 d-block" src="Img\chairs\img60.jpg">
                     <div class="card-img-overlay text-center d-flex flex-column justify-content-center align-items-center p-4">
                         <h4></h4>
                         <p></p>
