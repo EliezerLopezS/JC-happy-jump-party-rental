@@ -25,7 +25,7 @@
                 <div class="bg-light border rounded border-light hero-photography carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">The ultimate in party rentals.</h1>
                     
-                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="#">
+                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="https://wa.me/+18485251340">
                     <i class="bi bi-whatsapp"></i> Contact us by WhatsApp
                     </a></p>
                 </div>
@@ -52,7 +52,7 @@
                 <div class="bg-light border rounded border-light hero-technology3 carousel-hero jumbotron py-6 px-4">
                     <h1 class="hero-title">We offer great rentals at great prices, we are at your service.</h1>
                     
-                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="#">
+                    <p><a class="btn btn-info btn-lg hero-button" role="button" href="https://wa.me/+18485251340">
                     <i class="bi bi-whatsapp"></i> Contact us by WhatsApp
                     </a></p>
                 </div>
