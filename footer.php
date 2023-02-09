@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row text-center">
             <div class="col-12 col-sm-6 col-md-3">
-            <img class=" flex-shrink-0 me-3 fit-cover" width="350" height="250" src="Img/logo.jpg">
+            <img class=" flex-shrink-0 me-3 fit-cover" width="355" height="250" src="Img/logo.jpg">
             </div>
             <div class="col-12 col-sm-6 col-md-2">
                 <h5>Location</h5>
