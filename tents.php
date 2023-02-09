@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col d-md-flex order-first justify-content-md-start align-items-md-end order-md-2">
+            <div class="col order-md-2">
                 <div style="width: 80%;">
                     <h5 class="fw-bolder">20x40 west coast frame tent (no center pole).</h5>
                     <p class="w-lg-50"> 
@@ -73,7 +73,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col d-md-flex order-first justify-content-md-start align-items-md-end order-md-2">
+            <div class="col order-md-2">
                 <div style="width: 80%;">
                     <h5 class="fw-bolder">20x30 tent cover 600 square ft (no center poles)</h5>
                     <p class="w-lg-50">this tent can accommodate up to 60-70 guests 
