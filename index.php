@@ -176,7 +176,7 @@
     <div class="container d-flex flex-column align-items-center py-4 py-xl-5">
         <div class="row mb-5">
             <div class="col-md-8 col-xl-6 text-center mx-auto">
-                <h3 class="fw-bolder">Chairs and tables</h3>
+                <h3 class="fw-bolder">Chairs and tables rental</h3>
                 <p class="w-lg-50">It is necessary for any party or event to have the perfect chairs
                      and tables. Whether you are looking to rent chaivari chairs, folding chairs, plastic chairs, or even
                       bridal chairs, we have a chair for any type of party you can imagine.</p>
@@ -284,7 +284,7 @@
                 <div class="col mb-4">
                     <div class="d-flex flex-column align-items-center align-items-sm-start">
                         <p class="bg-dark border rounded border-dark p-4">We have been working for more than 8 years. Our clients support us. </p>
-                        <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="assets/img/team/avatar4.jpg">
+                        <div class="d-flex"><img class="rounded-circle flex-shrink-0 me-3 fit-cover" width="50" height="50" src="Img/log.jpg">
                             <div>
                                 <p class="fw-bold text-primary mb-0">Fernando José García.</p>
                             </div>

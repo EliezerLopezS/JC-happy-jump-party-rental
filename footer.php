@@ -16,7 +16,7 @@
             <div class="col-12 col-sm-6 col-md-2">
                 <h5>Email</h5>
                 <ul>
-                <a href="mailto:FernandoJ0220771@gmail.com"> <p class="text-muted mb-0"><i class="fa-solid fa-envelope"></i>FernandoJ0220771@gmail.com</p></a>
+                <a href="mailto:FernandoJ0220771@gmail.com"> <p class="text-muted mb-0"><i class="fa-solid fa-envelope"></i><br> FernandoJ0220771@gmail.com</p></a>
                  </ul>
             </div>
             <div class="col-sm-6 col-md-2">
