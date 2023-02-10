@@ -51,7 +51,7 @@
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img\inflatables\delfin.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
                             <h4 class="fw-bold">18' Dolphin Water Slide</h4>
-                            <p class="text-muted">L 26 ft (7.9m) <br>W 13 ft (3.9m) <br>H 18 ft (5.4m)<br>
+                            <p class="text-muted">L 25 ft (7.6m) <br>W 11.5 ft (3.5m) <br>H 16 ft (4.8m)<br>
                             This 18' Dolphin Slide can be used wet or dry, your choice.
                             Cool off this summer by riding the waves with the dolphins in our fun and cool water slide.
                             If the weather is starting to cool down, just turn off the water and use it as a dry slide.
@@ -84,8 +84,8 @@
                 <div class="col mb-4">
                     <div><a href="#"><img class="rounded img-fluid shadow w-100 fit-cover" src="Img/inflatables/IMG_2392.jpg" style="height: 250px;"></a>
                         <div class="py-4"><!--<span class="badge bg-primary mb-2">Website</span>-->
-                            <h4 class="fw-bold">Rainbow Water Slide 18 Ft</h4>
-                            <p class="text-muted">L 26 ft (7.9m) <br>W 13 ft (3.9m) <br>H 18 ft (5.4m)<br>
+                            <h4 class="fw-bold">Rainbow Water Slide 16 Ft</h4>
+                            <p class="text-muted">L 25 ft (7.6m) <br>W 11.5 ft (3.5m) <br>H 16 ft (4.8m)<br>
                             This Rainbow Water Slide can be used wet or dry, your choice.
                             Cool off this summer by riding the waves with the dolphins in our fun and cool water slide.
                             If the weather is starting to cool down, just turn off the water and use it as a dry slide.
